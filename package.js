@@ -1,6 +1,6 @@
 Package.describe({
     name: 'gantrim:meteor-json-view-materialize',
-    version: '0.1.0',
+    version: '0.1.1',
     // Brief, one-line summary of the package.
     summary: 'Print formatted JSON in HTML, styled for materialize',
     // URL to the Git repository containing the source code for this package.
@@ -15,10 +15,9 @@ Package.onUse(function (api) {
     api.use('ecmascript');
     api.use([
         'jquery',
-        'templating',
-        //'materialize:materialize',
-        //'planettraining:material-design-icons-font',
+        'templating'
     ], 'client');
+
     api.addFiles('jquery.jsonview.css', 'client');
     api.addFiles('jquery.jsonview.js', 'client');
     api.addFiles('json-view.html', 'client');

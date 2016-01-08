@@ -6,7 +6,7 @@ jquery JSONView packaged for meteor
 
 packaged jquery plugin: https://github.com/yesmeck/jquery-jsonview
 
-The majority of the work was already done in [yasinuslu:json-view](https://github.com/yesmeck/jquery-jsonview) I just removed the brackets and commas and added material expand/collapse icons
+The majority of the work was already done in [yasinuslu:json-view](https://github.com/yasinuslu/meteor-json-view/) I just removed the brackets and commas and added material expand/collapse icons
 
 ## installation
 ```

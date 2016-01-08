@@ -1,10 +1,10 @@
 Package.describe({
     name: 'gantrim:json-view-materialize',
-    version: '0.0.1',
+    version: '0.1.0',
     // Brief, one-line summary of the package.
-    summary: 'Print JSON in HTML styled for materialize',
+    summary: 'Print formatted JSON in HTML, styled for materialize',
     // URL to the Git repository containing the source code for this package.
-    git: 'https://github.com/gantrim/meteor-json-view',
+    git: 'https://github.com/gantrim/meteor-json-view-materialize',
     // By default, Meteor will default to using README.md for documentation.
     // To avoid submitting documentation, set this field to null.
     documentation: 'README.md'

@@ -1,5 +1,5 @@
 Package.describe({
-    name: 'gantrim:json-view-materialize',
+    name: 'gantrim:meteor-json-view-materialize',
     version: '0.1.0',
     // Brief, one-line summary of the package.
     summary: 'Print formatted JSON in HTML, styled for materialize',
